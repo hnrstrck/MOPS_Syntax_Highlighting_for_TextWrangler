@@ -22,5 +22,8 @@ Tipp: Eventuell muss unten links MOPS-Assembler ausgewählt werden.
 ## Tipp
 Man kann in den Informationen einer `.ass`-Datei festlegen, dass Dateien dieses Typs immer mit TextWrangler geöffnet werden.
 
+## Quelle
+Grundlage dieser Datei ist die Datei aus diesem Repo: [https://gist.github.com/jcmitchell/4322763](https://gist.github.com/jcmitchell/4322763).
+
 ## Lizenz
 Die Dateien dieses Repositorys steht unter einer [WTFPL – Do What the Fuck You Want to Public License](http://www.wtfpl.net/).
