@@ -33,6 +33,7 @@
 		<string>add</string>
 		<string>sub</string>
 		<string>mul</string>
+		<string>div</string>
 		<string>mod</string>
 		<string>cmp</string>
 		<string>jmp</string>
